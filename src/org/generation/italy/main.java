@@ -68,6 +68,7 @@ public class main {
 		}
 		while(anno<1900||anno>2023);
 	    	
+		System.out.println("finish");
 	    sc.close();
 	}
 
